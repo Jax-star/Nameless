@@ -90,7 +90,7 @@ UIv2.Name = "UIv2"
 UIv2.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 UIv2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 UIv2.DisplayOrder = 99999
-UIv2.ResetOnSpawn = false
+UIv2.ResetOnSpawn = false 
 
 Main.Name = "Main"
 Main.Parent = UIv2
