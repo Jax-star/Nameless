@@ -4072,4 +4072,3 @@ button_10.MouseButton1Down:Connect(function()
 	end)
 end)
 end
-getgenv().Executed=true
